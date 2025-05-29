@@ -28,6 +28,6 @@ Este repositório está organizado por tópicos para facilitar a navegação. Vo
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-##📫 Contato
+## 📫 Contato
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar através do meu GitHub ou rafael.alv334@gmail.com.
