@@ -9,7 +9,7 @@
 2. Para consultar o funcionamento e as flags de qualquer comando do docker, use:
 
    ```bash
-   docker [COMANDO] --help
+   docker <COMANDO> --help
    ```
 
    ou
@@ -33,7 +33,7 @@
 5. Para enviar uma imagem para o Docker Hub, utilize:
 
    ```bash
-   docker push [IMAGEM]
+   docker push <IMAGEM>
    ```
 
 6. Para limpar os volumes que não estão mais em usado, use o comando:
