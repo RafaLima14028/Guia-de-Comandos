@@ -35,3 +35,9 @@
    ```bash
    docker push [IMAGEM]
    ```
+
+6. Para limpar os volumes que não estão mais em usado, use o comando:
+
+   ```bash
+   docker volume prune
+   ```
