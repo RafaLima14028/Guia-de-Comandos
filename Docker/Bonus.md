@@ -41,3 +41,10 @@
    ```bash
    docker volume prune
    ```
+
+6. Para limpar as redes que não estão mais em usado, use o comando:
+
+   ```bash
+   docker network prune
+   ```
+
