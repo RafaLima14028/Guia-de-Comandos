@@ -7,4 +7,5 @@
 - [Criando Imagens](./Criando-Imagens.md)
 - [Volumes](./Volumes.md)
 - [Networks](./Networks.md)
+- [Compose](./Compose.md)
 - [Comandos Bônus](./Bonus.md)
