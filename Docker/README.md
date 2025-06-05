@@ -8,4 +8,5 @@
 - [Volumes](./Volumes.md)
 - [Networks](./Networks.md)
 - [Compose](./Compose.md)
+- [Swarm](./Swarm.md)
 - [Comandos Bônus](./Bonus.md)
