@@ -10,12 +10,11 @@ O objetivo é servir como um guia prático e de fácil consulta, ajudando você 
 
 ## 🛠️ Tecnologias Abordadas
 
-- **Git**: Comandos essenciais para controle de versão, fluxos de trabalho, branches, merges e rebase.
-- **Docker**: Gerenciamento de contêineres, criação de imagens, Docker Compose e orquestração básica.
-- **Kubernetes**: Conceitos fundamentais, deploy de aplicações, gerenciamento de pods, serviços e deployments.
+- **[Git](Git/README.md)**: Comandos essenciais para controle de versão, fluxos de trabalho, branches, merges e rebase.
+- **[Docker](Docker/README.md)**: Gerenciamento de contêineres, criação de imagens, Docker Compose e orquestração básica.
+- **[Kubernetes](Kubernetes/README.md)**: Conceitos fundamentais, deploy de aplicações, gerenciamento de pods, serviços e deployments.
 
 ## 🚀 Como Usar
-
 
 Este repositório está organizado por tópicos para facilitar a navegação. Você pode:
 
@@ -24,7 +23,6 @@ Este repositório está organizado por tópicos para facilitar a navegação. Vo
 3. **Contribuir**: Se você tiver comandos ou dicas úteis que não estão aqui, sinta-se à vontade para abrir uma issue ou enviar um Pull Request!
 
 ## 📜 Licença
-
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
